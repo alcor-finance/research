@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aave-hyper-carry-backtest"
+version = "0.1.0"
+description = "Backtesting Aave leverage + Hyperliquid funding carry"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.2",
+  "pyarrow>=16.0",
+  "PyYAML>=6.0",
+  "matplotlib>=3.8",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["aave_hyper_carry_backtest*", "src*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+
+[project.scripts]
+carry-run-backtest = "src.run_backtest:main"
+carry-list-runs = "src.list_runs:main"

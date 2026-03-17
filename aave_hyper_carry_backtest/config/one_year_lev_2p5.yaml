@@ -1,0 +1,30 @@
+start_ts: 2025-02-23T19:00:00Z
+end_ts: 2026-02-23T19:00:00Z
+bar_step: 1h
+initial_btc: 100.0
+
+strategy:
+  target_leverage: 2.5
+  hedge_ratio: 1.0
+  aave_borrow_apr: 0.0516
+  setup_cost_rate: 0.0005
+  liquidation_threshold: 0.80
+
+data:
+  spot_path: ../../btc_perp_backtest/data/raw/binance_1y_strict/spot.csv
+  funding_path: ../../btc_perp_backtest/data/raw/binance_1y_strict/funding.csv
+  borrow_apr_path: ""
+  spot_ts_col: ts
+  spot_price_col: spot_mid
+  funding_ts_col: funding_ts
+  funding_rate_col: funding_rate
+  funding_mark_price_col: mark_price
+  borrow_apr_ts_col: ts
+  borrow_apr_col: borrow_apr
+
+results:
+  results_dir: ../results
+  run_name: one_year_lev_2p5
+  save_equity: true
+  save_funding: true
+  save_borrow: true

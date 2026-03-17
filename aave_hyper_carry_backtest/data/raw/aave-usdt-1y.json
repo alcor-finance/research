@@ -1,0 +1,4021 @@
+{
+    "data": {
+        "value": [
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "33347930805039675711523419",
+                    "decimals": 27,
+                    "value": "0.033347930805039675711523419",
+                    "formatted": "3.33"
+                },
+                "date": "2026-02-26T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "33347930805039675711523419",
+                    "decimals": 27,
+                    "value": "0.033347930805039675711523419",
+                    "formatted": "3.33"
+                },
+                "date": "2026-02-25T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "30023235739397061140827292",
+                    "decimals": 27,
+                    "value": "0.030023235739397061140827292",
+                    "formatted": "3.00"
+                },
+                "date": "2026-02-24T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40053198091919353459430383",
+                    "decimals": 27,
+                    "value": "0.040053198091919353459430383",
+                    "formatted": "4.01"
+                },
+                "date": "2026-02-23T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "35476749510680699084146096",
+                    "decimals": 27,
+                    "value": "0.035476749510680699084146096",
+                    "formatted": "3.55"
+                },
+                "date": "2026-02-22T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "34769623603367192113088737",
+                    "decimals": 27,
+                    "value": "0.034769623603367192113088737",
+                    "formatted": "3.48"
+                },
+                "date": "2026-02-21T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "33049890650216985994864706",
+                    "decimals": 27,
+                    "value": "0.033049890650216985994864706",
+                    "formatted": "3.30"
+                },
+                "date": "2026-02-20T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "33710538400639048872051925",
+                    "decimals": 27,
+                    "value": "0.033710538400639048872051925",
+                    "formatted": "3.37"
+                },
+                "date": "2026-02-19T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "33641166164748036736798700",
+                    "decimals": 27,
+                    "value": "0.0336411661647480367367987",
+                    "formatted": "3.36"
+                },
+                "date": "2026-02-18T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "35433885871838089889909689",
+                    "decimals": 27,
+                    "value": "0.035433885871838089889909689",
+                    "formatted": "3.54"
+                },
+                "date": "2026-02-17T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "32981678609479363011979061",
+                    "decimals": 27,
+                    "value": "0.032981678609479363011979061",
+                    "formatted": "3.30"
+                },
+                "date": "2026-02-16T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "32175112697527157838353742",
+                    "decimals": 27,
+                    "value": "0.032175112697527157838353742",
+                    "formatted": "3.22"
+                },
+                "date": "2026-02-15T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "34700809472466598085731562",
+                    "decimals": 27,
+                    "value": "0.034700809472466598085731562",
+                    "formatted": "3.47"
+                },
+                "date": "2026-02-14T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "33622581733568226140333040",
+                    "decimals": 27,
+                    "value": "0.03362258173356822614033304",
+                    "formatted": "3.36"
+                },
+                "date": "2026-02-13T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "34180783517199902064501377",
+                    "decimals": 27,
+                    "value": "0.034180783517199902064501377",
+                    "formatted": "3.42"
+                },
+                "date": "2026-02-12T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "33225027904952769730781847",
+                    "decimals": 27,
+                    "value": "0.033225027904952769730781847",
+                    "formatted": "3.32"
+                },
+                "date": "2026-02-11T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "34991781304330735622393859",
+                    "decimals": 27,
+                    "value": "0.034991781304330735622393859",
+                    "formatted": "3.50"
+                },
+                "date": "2026-02-10T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "37946629794264177675520142",
+                    "decimals": 27,
+                    "value": "0.037946629794264177675520142",
+                    "formatted": "3.79"
+                },
+                "date": "2026-02-09T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "38639204541397611404081306",
+                    "decimals": 27,
+                    "value": "0.038639204541397611404081306",
+                    "formatted": "3.86"
+                },
+                "date": "2026-02-08T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "30065249260310740008135398",
+                    "decimals": 27,
+                    "value": "0.030065249260310740008135398",
+                    "formatted": "3.01"
+                },
+                "date": "2026-02-07T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "37068375435217035146694161",
+                    "decimals": 27,
+                    "value": "0.037068375435217035146694161",
+                    "formatted": "3.71"
+                },
+                "date": "2026-02-06T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "38813688807917819094815286",
+                    "decimals": 27,
+                    "value": "0.038813688807917819094815286",
+                    "formatted": "3.88"
+                },
+                "date": "2026-02-05T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47684662151900055121859391",
+                    "decimals": 27,
+                    "value": "0.047684662151900055121859391",
+                    "formatted": "4.77"
+                },
+                "date": "2026-02-04T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "35380295909315331157517325",
+                    "decimals": 27,
+                    "value": "0.035380295909315331157517325",
+                    "formatted": "3.54"
+                },
+                "date": "2026-02-03T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "35108986479837768201970341",
+                    "decimals": 27,
+                    "value": "0.035108986479837768201970341",
+                    "formatted": "3.51"
+                },
+                "date": "2026-02-02T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "50678556445857773090812655",
+                    "decimals": 27,
+                    "value": "0.050678556445857773090812655",
+                    "formatted": "5.07"
+                },
+                "date": "2026-02-01T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "36469266887599425002864756",
+                    "decimals": 27,
+                    "value": "0.036469266887599425002864756",
+                    "formatted": "3.65"
+                },
+                "date": "2026-01-31T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45450905364182043388184113",
+                    "decimals": 27,
+                    "value": "0.045450905364182043388184113",
+                    "formatted": "4.55"
+                },
+                "date": "2026-01-30T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "39329257210283194401396853",
+                    "decimals": 27,
+                    "value": "0.039329257210283194401396853",
+                    "formatted": "3.93"
+                },
+                "date": "2026-01-29T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "41389241739788095415595198",
+                    "decimals": 27,
+                    "value": "0.041389241739788095415595198",
+                    "formatted": "4.14"
+                },
+                "date": "2026-01-28T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "36664164109020725466448876",
+                    "decimals": 27,
+                    "value": "0.036664164109020725466448876",
+                    "formatted": "3.67"
+                },
+                "date": "2026-01-27T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44827350735987531744298861",
+                    "decimals": 27,
+                    "value": "0.044827350735987531744298861",
+                    "formatted": "4.48"
+                },
+                "date": "2026-01-26T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46902562747268756327523032",
+                    "decimals": 27,
+                    "value": "0.046902562747268756327523032",
+                    "formatted": "4.69"
+                },
+                "date": "2026-01-25T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44084356328196121288182469",
+                    "decimals": 27,
+                    "value": "0.044084356328196121288182469",
+                    "formatted": "4.41"
+                },
+                "date": "2026-01-24T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47715749470537991419853493",
+                    "decimals": 27,
+                    "value": "0.047715749470537991419853493",
+                    "formatted": "4.77"
+                },
+                "date": "2026-01-23T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "50843325891769415482845865",
+                    "decimals": 27,
+                    "value": "0.050843325891769415482845865",
+                    "formatted": "5.08"
+                },
+                "date": "2026-01-22T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "50973087521242230521948730",
+                    "decimals": 27,
+                    "value": "0.05097308752124223052194873",
+                    "formatted": "5.10"
+                },
+                "date": "2026-01-21T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "38720853058057357378294189",
+                    "decimals": 27,
+                    "value": "0.038720853058057357378294189",
+                    "formatted": "3.87"
+                },
+                "date": "2026-01-20T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44020179179041546461095193",
+                    "decimals": 27,
+                    "value": "0.044020179179041546461095193",
+                    "formatted": "4.40"
+                },
+                "date": "2026-01-19T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "43469721789581173239058343",
+                    "decimals": 27,
+                    "value": "0.043469721789581173239058343",
+                    "formatted": "4.35"
+                },
+                "date": "2026-01-18T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "42952051278749778087656120",
+                    "decimals": 27,
+                    "value": "0.04295205127874977808765612",
+                    "formatted": "4.30"
+                },
+                "date": "2026-01-17T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "38869306330327181615207336",
+                    "decimals": 27,
+                    "value": "0.038869306330327181615207336",
+                    "formatted": "3.89"
+                },
+                "date": "2026-01-16T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "36866727381380163593632267",
+                    "decimals": 27,
+                    "value": "0.036866727381380163593632267",
+                    "formatted": "3.69"
+                },
+                "date": "2026-01-15T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "42393925645352927474574414",
+                    "decimals": 27,
+                    "value": "0.042393925645352927474574414",
+                    "formatted": "4.24"
+                },
+                "date": "2026-01-14T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "39238304902939143230883806",
+                    "decimals": 27,
+                    "value": "0.039238304902939143230883806",
+                    "formatted": "3.92"
+                },
+                "date": "2026-01-13T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "41676623245042765715004916",
+                    "decimals": 27,
+                    "value": "0.041676623245042765715004916",
+                    "formatted": "4.17"
+                },
+                "date": "2026-01-12T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "39552936123490966444549183",
+                    "decimals": 27,
+                    "value": "0.039552936123490966444549183",
+                    "formatted": "3.96"
+                },
+                "date": "2026-01-11T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44743255635242057551919695",
+                    "decimals": 27,
+                    "value": "0.044743255635242057551919695",
+                    "formatted": "4.47"
+                },
+                "date": "2026-01-10T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "38925494678866728329628284",
+                    "decimals": 27,
+                    "value": "0.038925494678866728329628284",
+                    "formatted": "3.89"
+                },
+                "date": "2026-01-09T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "39331534188001761407392729",
+                    "decimals": 27,
+                    "value": "0.039331534188001761407392729",
+                    "formatted": "3.93"
+                },
+                "date": "2026-01-08T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "38556825623791308541111522",
+                    "decimals": 27,
+                    "value": "0.038556825623791308541111522",
+                    "formatted": "3.86"
+                },
+                "date": "2026-01-07T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "43454851409004999916848199",
+                    "decimals": 27,
+                    "value": "0.043454851409004999916848199",
+                    "formatted": "4.35"
+                },
+                "date": "2026-01-06T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "43775400804616898225230464",
+                    "decimals": 27,
+                    "value": "0.043775400804616898225230464",
+                    "formatted": "4.38"
+                },
+                "date": "2026-01-05T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40069658392505826290318452",
+                    "decimals": 27,
+                    "value": "0.040069658392505826290318452",
+                    "formatted": "4.01"
+                },
+                "date": "2026-01-04T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45724654102609599797606680",
+                    "decimals": 27,
+                    "value": "0.04572465410260959979760668",
+                    "formatted": "4.57"
+                },
+                "date": "2026-01-03T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "48205099761531153062849021",
+                    "decimals": 27,
+                    "value": "0.048205099761531153062849021",
+                    "formatted": "4.82"
+                },
+                "date": "2026-01-02T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47924801383819243268506144",
+                    "decimals": 27,
+                    "value": "0.047924801383819243268506144",
+                    "formatted": "4.79"
+                },
+                "date": "2026-01-01T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "43780993955225438308597141",
+                    "decimals": 27,
+                    "value": "0.043780993955225438308597141",
+                    "formatted": "4.38"
+                },
+                "date": "2025-12-31T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "38901186775478701304078098",
+                    "decimals": 27,
+                    "value": "0.038901186775478701304078098",
+                    "formatted": "3.89"
+                },
+                "date": "2025-12-30T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "42202884013941107309716905",
+                    "decimals": 27,
+                    "value": "0.042202884013941107309716905",
+                    "formatted": "4.22"
+                },
+                "date": "2025-12-29T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40170111453512312199544366",
+                    "decimals": 27,
+                    "value": "0.040170111453512312199544366",
+                    "formatted": "4.02"
+                },
+                "date": "2025-12-28T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40097902362022272441350343",
+                    "decimals": 27,
+                    "value": "0.040097902362022272441350343",
+                    "formatted": "4.01"
+                },
+                "date": "2025-12-27T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "43161537384552667959883612",
+                    "decimals": 27,
+                    "value": "0.043161537384552667959883612",
+                    "formatted": "4.32"
+                },
+                "date": "2025-12-26T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "41141079275890247194825419",
+                    "decimals": 27,
+                    "value": "0.041141079275890247194825419",
+                    "formatted": "4.11"
+                },
+                "date": "2025-12-25T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40374570010439279823731998",
+                    "decimals": 27,
+                    "value": "0.040374570010439279823731998",
+                    "formatted": "4.04"
+                },
+                "date": "2025-12-24T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40503592484249323736171256",
+                    "decimals": 27,
+                    "value": "0.040503592484249323736171256",
+                    "formatted": "4.05"
+                },
+                "date": "2025-12-23T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "42870709451476821722586701",
+                    "decimals": 27,
+                    "value": "0.042870709451476821722586701",
+                    "formatted": "4.29"
+                },
+                "date": "2025-12-22T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "42435554649243932484337176",
+                    "decimals": 27,
+                    "value": "0.042435554649243932484337176",
+                    "formatted": "4.24"
+                },
+                "date": "2025-12-21T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "38962807070819156820779986",
+                    "decimals": 27,
+                    "value": "0.038962807070819156820779986",
+                    "formatted": "3.90"
+                },
+                "date": "2025-12-20T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "38809361366758635897467386",
+                    "decimals": 27,
+                    "value": "0.038809361366758635897467386",
+                    "formatted": "3.88"
+                },
+                "date": "2025-12-19T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46162202151071233319014071",
+                    "decimals": 27,
+                    "value": "0.046162202151071233319014071",
+                    "formatted": "4.62"
+                },
+                "date": "2025-12-18T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "39518784880653036090414823",
+                    "decimals": 27,
+                    "value": "0.039518784880653036090414823",
+                    "formatted": "3.95"
+                },
+                "date": "2025-12-17T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47271241976842335938382344",
+                    "decimals": 27,
+                    "value": "0.047271241976842335938382344",
+                    "formatted": "4.73"
+                },
+                "date": "2025-12-16T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "55641137696698465456141634",
+                    "decimals": 27,
+                    "value": "0.055641137696698465456141634",
+                    "formatted": "5.56"
+                },
+                "date": "2025-12-15T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "48489721259397118211324742",
+                    "decimals": 27,
+                    "value": "0.048489721259397118211324742",
+                    "formatted": "4.85"
+                },
+                "date": "2025-12-14T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "55717926405134572034079896",
+                    "decimals": 27,
+                    "value": "0.055717926405134572034079896",
+                    "formatted": "5.57"
+                },
+                "date": "2025-12-13T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52612389657750320431496173",
+                    "decimals": 27,
+                    "value": "0.052612389657750320431496173",
+                    "formatted": "5.26"
+                },
+                "date": "2025-12-12T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51854263195229318149763300",
+                    "decimals": 27,
+                    "value": "0.0518542631952293181497633",
+                    "formatted": "5.19"
+                },
+                "date": "2025-12-11T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "55399799218562727847182962",
+                    "decimals": 27,
+                    "value": "0.055399799218562727847182962",
+                    "formatted": "5.54"
+                },
+                "date": "2025-12-10T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45222967741320535775376459",
+                    "decimals": 27,
+                    "value": "0.045222967741320535775376459",
+                    "formatted": "4.52"
+                },
+                "date": "2025-12-09T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "49431397085321450695630766",
+                    "decimals": 27,
+                    "value": "0.049431397085321450695630766",
+                    "formatted": "4.94"
+                },
+                "date": "2025-12-08T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44655188868048426433691555",
+                    "decimals": 27,
+                    "value": "0.044655188868048426433691555",
+                    "formatted": "4.47"
+                },
+                "date": "2025-12-07T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "58228713268154214478969280",
+                    "decimals": 27,
+                    "value": "0.05822871326815421447896928",
+                    "formatted": "5.82"
+                },
+                "date": "2025-12-06T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "54114123508002524786845063",
+                    "decimals": 27,
+                    "value": "0.054114123508002524786845063",
+                    "formatted": "5.41"
+                },
+                "date": "2025-12-05T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52773144850137877488701084",
+                    "decimals": 27,
+                    "value": "0.052773144850137877488701084",
+                    "formatted": "5.28"
+                },
+                "date": "2025-12-04T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "54642817778409731784540259",
+                    "decimals": 27,
+                    "value": "0.054642817778409731784540259",
+                    "formatted": "5.46"
+                },
+                "date": "2025-12-03T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46724205163676701958524704",
+                    "decimals": 27,
+                    "value": "0.046724205163676701958524704",
+                    "formatted": "4.67"
+                },
+                "date": "2025-12-02T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "48927408900047710183743011",
+                    "decimals": 27,
+                    "value": "0.048927408900047710183743011",
+                    "formatted": "4.89"
+                },
+                "date": "2025-12-01T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44115113380279761522222678",
+                    "decimals": 27,
+                    "value": "0.044115113380279761522222678",
+                    "formatted": "4.41"
+                },
+                "date": "2025-11-30T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46834751202867904080364210",
+                    "decimals": 27,
+                    "value": "0.04683475120286790408036421",
+                    "formatted": "4.68"
+                },
+                "date": "2025-11-29T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "43767618971476247721081615",
+                    "decimals": 27,
+                    "value": "0.043767618971476247721081615",
+                    "formatted": "4.38"
+                },
+                "date": "2025-11-28T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51703642850281630006601008",
+                    "decimals": 27,
+                    "value": "0.051703642850281630006601008",
+                    "formatted": "5.17"
+                },
+                "date": "2025-11-27T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46637113990072572274507470",
+                    "decimals": 27,
+                    "value": "0.04663711399007257227450747",
+                    "formatted": "4.66"
+                },
+                "date": "2025-11-26T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51525481334337064373965532",
+                    "decimals": 27,
+                    "value": "0.051525481334337064373965532",
+                    "formatted": "5.15"
+                },
+                "date": "2025-11-25T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "48793937250013383196837560",
+                    "decimals": 27,
+                    "value": "0.04879393725001338319683756",
+                    "formatted": "4.88"
+                },
+                "date": "2025-11-24T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52107824546986246383301071",
+                    "decimals": 27,
+                    "value": "0.052107824546986246383301071",
+                    "formatted": "5.21"
+                },
+                "date": "2025-11-23T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "39387844021188982219512319",
+                    "decimals": 27,
+                    "value": "0.039387844021188982219512319",
+                    "formatted": "3.94"
+                },
+                "date": "2025-11-22T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51955804026884476243390468",
+                    "decimals": 27,
+                    "value": "0.051955804026884476243390468",
+                    "formatted": "5.20"
+                },
+                "date": "2025-11-21T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "60756854725168877439914158",
+                    "decimals": 27,
+                    "value": "0.060756854725168877439914158",
+                    "formatted": "6.08"
+                },
+                "date": "2025-11-20T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "49299484663331937088461894",
+                    "decimals": 27,
+                    "value": "0.049299484663331937088461894",
+                    "formatted": "4.93"
+                },
+                "date": "2025-11-19T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "68814760124007604673235283",
+                    "decimals": 27,
+                    "value": "0.068814760124007604673235283",
+                    "formatted": "6.88"
+                },
+                "date": "2025-11-18T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "61111173260180292871594171",
+                    "decimals": 27,
+                    "value": "0.061111173260180292871594171",
+                    "formatted": "6.11"
+                },
+                "date": "2025-11-17T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47625102680180511938722994",
+                    "decimals": 27,
+                    "value": "0.047625102680180511938722994",
+                    "formatted": "4.76"
+                },
+                "date": "2025-11-16T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44691772203355726330980039",
+                    "decimals": 27,
+                    "value": "0.044691772203355726330980039",
+                    "formatted": "4.47"
+                },
+                "date": "2025-11-15T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "61634598662041715323191257",
+                    "decimals": 27,
+                    "value": "0.061634598662041715323191257",
+                    "formatted": "6.16"
+                },
+                "date": "2025-11-14T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "61336884766742540880497855",
+                    "decimals": 27,
+                    "value": "0.061336884766742540880497855",
+                    "formatted": "6.13"
+                },
+                "date": "2025-11-13T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64225063167778298087015082",
+                    "decimals": 27,
+                    "value": "0.064225063167778298087015082",
+                    "formatted": "6.42"
+                },
+                "date": "2025-11-12T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "55630754815632851777615726",
+                    "decimals": 27,
+                    "value": "0.055630754815632851777615726",
+                    "formatted": "5.56"
+                },
+                "date": "2025-11-11T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64875109130894418764878111",
+                    "decimals": 27,
+                    "value": "0.064875109130894418764878111",
+                    "formatted": "6.49"
+                },
+                "date": "2025-11-10T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "59341308038664566621415966",
+                    "decimals": 27,
+                    "value": "0.059341308038664566621415966",
+                    "formatted": "5.93"
+                },
+                "date": "2025-11-09T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "60080708718112193327568029",
+                    "decimals": 27,
+                    "value": "0.060080708718112193327568029",
+                    "formatted": "6.01"
+                },
+                "date": "2025-11-08T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "70467395182113071356914221",
+                    "decimals": 27,
+                    "value": "0.070467395182113071356914221",
+                    "formatted": "7.05"
+                },
+                "date": "2025-11-07T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45753468921711913819293819",
+                    "decimals": 27,
+                    "value": "0.045753468921711913819293819",
+                    "formatted": "4.58"
+                },
+                "date": "2025-11-06T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "56667338264954158007213406",
+                    "decimals": 27,
+                    "value": "0.056667338264954158007213406",
+                    "formatted": "5.67"
+                },
+                "date": "2025-11-05T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "53410826897655107413994774",
+                    "decimals": 27,
+                    "value": "0.053410826897655107413994774",
+                    "formatted": "5.34"
+                },
+                "date": "2025-11-04T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51528070307370223921111428",
+                    "decimals": 27,
+                    "value": "0.051528070307370223921111428",
+                    "formatted": "5.15"
+                },
+                "date": "2025-11-03T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "48636081934935246354127436",
+                    "decimals": 27,
+                    "value": "0.048636081934935246354127436",
+                    "formatted": "4.86"
+                },
+                "date": "2025-11-02T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52132136466421162677887973",
+                    "decimals": 27,
+                    "value": "0.052132136466421162677887973",
+                    "formatted": "5.21"
+                },
+                "date": "2025-11-01T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51763700926193345069931665",
+                    "decimals": 27,
+                    "value": "0.051763700926193345069931665",
+                    "formatted": "5.18"
+                },
+                "date": "2025-10-31T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "55721506573433461800386097",
+                    "decimals": 27,
+                    "value": "0.055721506573433461800386097",
+                    "formatted": "5.57"
+                },
+                "date": "2025-10-30T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "55536816829228980372241741",
+                    "decimals": 27,
+                    "value": "0.055536816829228980372241741",
+                    "formatted": "5.55"
+                },
+                "date": "2025-10-29T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46861429571219492891028731",
+                    "decimals": 27,
+                    "value": "0.046861429571219492891028731",
+                    "formatted": "4.69"
+                },
+                "date": "2025-10-28T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "57235108000579753112275760",
+                    "decimals": 27,
+                    "value": "0.05723510800057975311227576",
+                    "formatted": "5.72"
+                },
+                "date": "2025-10-27T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "56637604224032367148504753",
+                    "decimals": 27,
+                    "value": "0.056637604224032367148504753",
+                    "formatted": "5.66"
+                },
+                "date": "2025-10-26T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "55896013951672957634945822",
+                    "decimals": 27,
+                    "value": "0.055896013951672957634945822",
+                    "formatted": "5.59"
+                },
+                "date": "2025-10-25T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "63723913957047216094338058",
+                    "decimals": 27,
+                    "value": "0.063723913957047216094338058",
+                    "formatted": "6.37"
+                },
+                "date": "2025-10-24T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51278776281160096931258815",
+                    "decimals": 27,
+                    "value": "0.051278776281160096931258815",
+                    "formatted": "5.13"
+                },
+                "date": "2025-10-23T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "57625860777098072392495055",
+                    "decimals": 27,
+                    "value": "0.057625860777098072392495055",
+                    "formatted": "5.76"
+                },
+                "date": "2025-10-22T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "53644931864299531517370196",
+                    "decimals": 27,
+                    "value": "0.053644931864299531517370196",
+                    "formatted": "5.36"
+                },
+                "date": "2025-10-21T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "59589722138514108313120883",
+                    "decimals": 27,
+                    "value": "0.059589722138514108313120883",
+                    "formatted": "5.96"
+                },
+                "date": "2025-10-20T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "56403058966214647723480457",
+                    "decimals": 27,
+                    "value": "0.056403058966214647723480457",
+                    "formatted": "5.64"
+                },
+                "date": "2025-10-19T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "50376767074944601458374962",
+                    "decimals": 27,
+                    "value": "0.050376767074944601458374962",
+                    "formatted": "5.04"
+                },
+                "date": "2025-10-18T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "58435945176662050193608963",
+                    "decimals": 27,
+                    "value": "0.058435945176662050193608963",
+                    "formatted": "5.84"
+                },
+                "date": "2025-10-17T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "55865380143966828714647739",
+                    "decimals": 27,
+                    "value": "0.055865380143966828714647739",
+                    "formatted": "5.59"
+                },
+                "date": "2025-10-16T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "60902857474748484990795915",
+                    "decimals": 27,
+                    "value": "0.060902857474748484990795915",
+                    "formatted": "6.09"
+                },
+                "date": "2025-10-15T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "61095963074037684373375790",
+                    "decimals": 27,
+                    "value": "0.06109596307403768437337579",
+                    "formatted": "6.11"
+                },
+                "date": "2025-10-14T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "70718293021237637523527798",
+                    "decimals": 27,
+                    "value": "0.070718293021237637523527798",
+                    "formatted": "7.07"
+                },
+                "date": "2025-10-13T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47231640017741322689504134",
+                    "decimals": 27,
+                    "value": "0.047231640017741322689504134",
+                    "formatted": "4.72"
+                },
+                "date": "2025-10-12T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "72631673169814662434867986",
+                    "decimals": 27,
+                    "value": "0.072631673169814662434867986",
+                    "formatted": "7.26"
+                },
+                "date": "2025-10-11T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64122825318894651676685914",
+                    "decimals": 27,
+                    "value": "0.064122825318894651676685914",
+                    "formatted": "6.41"
+                },
+                "date": "2025-10-10T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "54782572465024837820595806",
+                    "decimals": 27,
+                    "value": "0.054782572465024837820595806",
+                    "formatted": "5.48"
+                },
+                "date": "2025-10-09T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "53589794946402944951738842",
+                    "decimals": 27,
+                    "value": "0.053589794946402944951738842",
+                    "formatted": "5.36"
+                },
+                "date": "2025-10-08T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "61239596795007444620080130",
+                    "decimals": 27,
+                    "value": "0.06123959679500744462008013",
+                    "formatted": "6.12"
+                },
+                "date": "2025-10-07T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "60019618064398726949171693",
+                    "decimals": 27,
+                    "value": "0.060019618064398726949171693",
+                    "formatted": "6.00"
+                },
+                "date": "2025-10-06T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "60420331555781651507844501",
+                    "decimals": 27,
+                    "value": "0.060420331555781651507844501",
+                    "formatted": "6.04"
+                },
+                "date": "2025-10-05T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "62129525295252178830867333",
+                    "decimals": 27,
+                    "value": "0.062129525295252178830867333",
+                    "formatted": "6.21"
+                },
+                "date": "2025-10-04T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64061141030135427748220657",
+                    "decimals": 27,
+                    "value": "0.064061141030135427748220657",
+                    "formatted": "6.41"
+                },
+                "date": "2025-10-03T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "60693733728106081465870627",
+                    "decimals": 27,
+                    "value": "0.060693733728106081465870627",
+                    "formatted": "6.07"
+                },
+                "date": "2025-10-02T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64219954121176654620382307",
+                    "decimals": 27,
+                    "value": "0.064219954121176654620382307",
+                    "formatted": "6.42"
+                },
+                "date": "2025-10-01T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "60403944134701790770081108",
+                    "decimals": 27,
+                    "value": "0.060403944134701790770081108",
+                    "formatted": "6.04"
+                },
+                "date": "2025-09-30T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "66147751968091698398178625",
+                    "decimals": 27,
+                    "value": "0.066147751968091698398178625",
+                    "formatted": "6.61"
+                },
+                "date": "2025-09-29T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "72018882825135339043638306",
+                    "decimals": 27,
+                    "value": "0.072018882825135339043638306",
+                    "formatted": "7.20"
+                },
+                "date": "2025-09-28T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64598798217690665584968788",
+                    "decimals": 27,
+                    "value": "0.064598798217690665584968788",
+                    "formatted": "6.46"
+                },
+                "date": "2025-09-27T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64084153635721876523071937",
+                    "decimals": 27,
+                    "value": "0.064084153635721876523071937",
+                    "formatted": "6.41"
+                },
+                "date": "2025-09-26T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "65662359200683669175591252",
+                    "decimals": 27,
+                    "value": "0.065662359200683669175591252",
+                    "formatted": "6.57"
+                },
+                "date": "2025-09-25T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "67072465032440649947581874",
+                    "decimals": 27,
+                    "value": "0.067072465032440649947581874",
+                    "formatted": "6.71"
+                },
+                "date": "2025-09-24T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "57278994141120413411831856",
+                    "decimals": 27,
+                    "value": "0.057278994141120413411831856",
+                    "formatted": "5.73"
+                },
+                "date": "2025-09-23T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "62149505529653031839223468",
+                    "decimals": 27,
+                    "value": "0.062149505529653031839223468",
+                    "formatted": "6.21"
+                },
+                "date": "2025-09-22T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "63926838402869019253572712",
+                    "decimals": 27,
+                    "value": "0.063926838402869019253572712",
+                    "formatted": "6.39"
+                },
+                "date": "2025-09-21T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64100356481411493823486818",
+                    "decimals": 27,
+                    "value": "0.064100356481411493823486818",
+                    "formatted": "6.41"
+                },
+                "date": "2025-09-20T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "68915745901247602708311220",
+                    "decimals": 27,
+                    "value": "0.06891574590124760270831122",
+                    "formatted": "6.89"
+                },
+                "date": "2025-09-19T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "94417238213679825113232728",
+                    "decimals": 27,
+                    "value": "0.094417238213679825113232728",
+                    "formatted": "9.44"
+                },
+                "date": "2025-09-18T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "83491835373095020785344217",
+                    "decimals": 27,
+                    "value": "0.083491835373095020785344217",
+                    "formatted": "8.35"
+                },
+                "date": "2025-09-17T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "70865280514913780641408270",
+                    "decimals": 27,
+                    "value": "0.07086528051491378064140827",
+                    "formatted": "7.09"
+                },
+                "date": "2025-09-16T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "62323314611563282542311437",
+                    "decimals": 27,
+                    "value": "0.062323314611563282542311437",
+                    "formatted": "6.23"
+                },
+                "date": "2025-09-15T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "59109472350589857679362306",
+                    "decimals": 27,
+                    "value": "0.059109472350589857679362306",
+                    "formatted": "5.91"
+                },
+                "date": "2025-09-14T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64510680038983138785957907",
+                    "decimals": 27,
+                    "value": "0.064510680038983138785957907",
+                    "formatted": "6.45"
+                },
+                "date": "2025-09-13T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "58029918408442505276096164",
+                    "decimals": 27,
+                    "value": "0.058029918408442505276096164",
+                    "formatted": "5.80"
+                },
+                "date": "2025-09-12T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "60584678248409902066056156",
+                    "decimals": 27,
+                    "value": "0.060584678248409902066056156",
+                    "formatted": "6.06"
+                },
+                "date": "2025-09-11T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "56980664405288114916751237",
+                    "decimals": 27,
+                    "value": "0.056980664405288114916751237",
+                    "formatted": "5.70"
+                },
+                "date": "2025-09-10T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "57143323763199607671151161",
+                    "decimals": 27,
+                    "value": "0.057143323763199607671151161",
+                    "formatted": "5.71"
+                },
+                "date": "2025-09-09T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "59829083988019373681224979",
+                    "decimals": 27,
+                    "value": "0.059829083988019373681224979",
+                    "formatted": "5.98"
+                },
+                "date": "2025-09-08T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64547011647239275474093383",
+                    "decimals": 27,
+                    "value": "0.064547011647239275474093383",
+                    "formatted": "6.45"
+                },
+                "date": "2025-09-07T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "59037041464398313043887153",
+                    "decimals": 27,
+                    "value": "0.059037041464398313043887153",
+                    "formatted": "5.90"
+                },
+                "date": "2025-09-06T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "61627059745553067955336587",
+                    "decimals": 27,
+                    "value": "0.061627059745553067955336587",
+                    "formatted": "6.16"
+                },
+                "date": "2025-09-05T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "66838355131493089513594628",
+                    "decimals": 27,
+                    "value": "0.066838355131493089513594628",
+                    "formatted": "6.68"
+                },
+                "date": "2025-09-04T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "66906241567932996508452943",
+                    "decimals": 27,
+                    "value": "0.066906241567932996508452943",
+                    "formatted": "6.69"
+                },
+                "date": "2025-09-03T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "58817649410857858874647764",
+                    "decimals": 27,
+                    "value": "0.058817649410857858874647764",
+                    "formatted": "5.88"
+                },
+                "date": "2025-09-02T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "60013026233306995977456774",
+                    "decimals": 27,
+                    "value": "0.060013026233306995977456774",
+                    "formatted": "6.00"
+                },
+                "date": "2025-09-01T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "54631479632636507094060996",
+                    "decimals": 27,
+                    "value": "0.054631479632636507094060996",
+                    "formatted": "5.46"
+                },
+                "date": "2025-08-31T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "57857112773222307420963921",
+                    "decimals": 27,
+                    "value": "0.057857112773222307420963921",
+                    "formatted": "5.79"
+                },
+                "date": "2025-08-30T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "59844249599924677066500060",
+                    "decimals": 27,
+                    "value": "0.05984424959992467706650006",
+                    "formatted": "5.98"
+                },
+                "date": "2025-08-29T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "59644389490058986783360477",
+                    "decimals": 27,
+                    "value": "0.059644389490058986783360477",
+                    "formatted": "5.96"
+                },
+                "date": "2025-08-28T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52186968022158111980456180",
+                    "decimals": 27,
+                    "value": "0.05218696802215811198045618",
+                    "formatted": "5.22"
+                },
+                "date": "2025-08-27T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "56265017265836717271404511",
+                    "decimals": 27,
+                    "value": "0.056265017265836717271404511",
+                    "formatted": "5.63"
+                },
+                "date": "2025-08-26T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "67447627966853177468232397",
+                    "decimals": 27,
+                    "value": "0.067447627966853177468232397",
+                    "formatted": "6.74"
+                },
+                "date": "2025-08-25T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "56188555585259197237049615",
+                    "decimals": 27,
+                    "value": "0.056188555585259197237049615",
+                    "formatted": "5.62"
+                },
+                "date": "2025-08-24T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "70539462707737469404212668",
+                    "decimals": 27,
+                    "value": "0.070539462707737469404212668",
+                    "formatted": "7.05"
+                },
+                "date": "2025-08-23T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "75490540467969411708033482",
+                    "decimals": 27,
+                    "value": "0.075490540467969411708033482",
+                    "formatted": "7.55"
+                },
+                "date": "2025-08-22T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "72849886247153876310374745",
+                    "decimals": 27,
+                    "value": "0.072849886247153876310374745",
+                    "formatted": "7.28"
+                },
+                "date": "2025-08-21T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "84139207239969219376965988",
+                    "decimals": 27,
+                    "value": "0.084139207239969219376965988",
+                    "formatted": "8.41"
+                },
+                "date": "2025-08-20T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "93307669086836617896930140",
+                    "decimals": 27,
+                    "value": "0.09330766908683661789693014",
+                    "formatted": "9.33"
+                },
+                "date": "2025-08-19T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "96706627359038160977882783",
+                    "decimals": 27,
+                    "value": "0.096706627359038160977882783",
+                    "formatted": "9.67"
+                },
+                "date": "2025-08-18T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "91392338373789824735676743",
+                    "decimals": 27,
+                    "value": "0.091392338373789824735676743",
+                    "formatted": "9.14"
+                },
+                "date": "2025-08-17T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "98873948462749758189314224",
+                    "decimals": 27,
+                    "value": "0.098873948462749758189314224",
+                    "formatted": "9.89"
+                },
+                "date": "2025-08-16T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "86063949731830043565733973",
+                    "decimals": 27,
+                    "value": "0.086063949731830043565733973",
+                    "formatted": "8.61"
+                },
+                "date": "2025-08-15T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "62347915448368152034836843",
+                    "decimals": 27,
+                    "value": "0.062347915448368152034836843",
+                    "formatted": "6.23"
+                },
+                "date": "2025-08-14T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "60613644797166843899349856",
+                    "decimals": 27,
+                    "value": "0.060613644797166843899349856",
+                    "formatted": "6.06"
+                },
+                "date": "2025-08-13T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "53303993345615046912314486",
+                    "decimals": 27,
+                    "value": "0.053303993345615046912314486",
+                    "formatted": "5.33"
+                },
+                "date": "2025-08-12T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "54090789672073726646626851",
+                    "decimals": 27,
+                    "value": "0.054090789672073726646626851",
+                    "formatted": "5.41"
+                },
+                "date": "2025-08-11T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51318015154584691028389076",
+                    "decimals": 27,
+                    "value": "0.051318015154584691028389076",
+                    "formatted": "5.13"
+                },
+                "date": "2025-08-10T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "50594532721526498914620409",
+                    "decimals": 27,
+                    "value": "0.050594532721526498914620409",
+                    "formatted": "5.06"
+                },
+                "date": "2025-08-09T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "49457268375317180045605829",
+                    "decimals": 27,
+                    "value": "0.049457268375317180045605829",
+                    "formatted": "4.95"
+                },
+                "date": "2025-08-08T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "49996243763853159298473020",
+                    "decimals": 27,
+                    "value": "0.04999624376385315929847302",
+                    "formatted": "5.00"
+                },
+                "date": "2025-08-07T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46541727693649743540039738",
+                    "decimals": 27,
+                    "value": "0.046541727693649743540039738",
+                    "formatted": "4.65"
+                },
+                "date": "2025-08-06T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "57544867305314956335706256",
+                    "decimals": 27,
+                    "value": "0.057544867305314956335706256",
+                    "formatted": "5.75"
+                },
+                "date": "2025-08-05T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44781839939515640208760431",
+                    "decimals": 27,
+                    "value": "0.044781839939515640208760431",
+                    "formatted": "4.48"
+                },
+                "date": "2025-08-04T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "50401629409610628238970543",
+                    "decimals": 27,
+                    "value": "0.050401629409610628238970543",
+                    "formatted": "5.04"
+                },
+                "date": "2025-08-03T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "59252291779006288461613646",
+                    "decimals": 27,
+                    "value": "0.059252291779006288461613646",
+                    "formatted": "5.93"
+                },
+                "date": "2025-08-02T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "42725506812121192191536970",
+                    "decimals": 27,
+                    "value": "0.04272550681212119219153697",
+                    "formatted": "4.27"
+                },
+                "date": "2025-08-01T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51645168500984965335528848",
+                    "decimals": 27,
+                    "value": "0.051645168500984965335528848",
+                    "formatted": "5.16"
+                },
+                "date": "2025-07-31T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "43529961392014328089030749",
+                    "decimals": 27,
+                    "value": "0.043529961392014328089030749",
+                    "formatted": "4.35"
+                },
+                "date": "2025-07-30T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47857621870014457911350413",
+                    "decimals": 27,
+                    "value": "0.047857621870014457911350413",
+                    "formatted": "4.79"
+                },
+                "date": "2025-07-29T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "48879385635402434984012506",
+                    "decimals": 27,
+                    "value": "0.048879385635402434984012506",
+                    "formatted": "4.89"
+                },
+                "date": "2025-07-28T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46159381051497285822767572",
+                    "decimals": 27,
+                    "value": "0.046159381051497285822767572",
+                    "formatted": "4.62"
+                },
+                "date": "2025-07-27T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45733417205386984034267155",
+                    "decimals": 27,
+                    "value": "0.045733417205386984034267155",
+                    "formatted": "4.57"
+                },
+                "date": "2025-07-26T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51393558522324548006183201",
+                    "decimals": 27,
+                    "value": "0.051393558522324548006183201",
+                    "formatted": "5.14"
+                },
+                "date": "2025-07-25T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "42426603950169443896454122",
+                    "decimals": 27,
+                    "value": "0.042426603950169443896454122",
+                    "formatted": "4.24"
+                },
+                "date": "2025-07-24T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47313676471578113461909055",
+                    "decimals": 27,
+                    "value": "0.047313676471578113461909055",
+                    "formatted": "4.73"
+                },
+                "date": "2025-07-23T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45730604681720072654683047",
+                    "decimals": 27,
+                    "value": "0.045730604681720072654683047",
+                    "formatted": "4.57"
+                },
+                "date": "2025-07-22T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "50400805455406956344341826",
+                    "decimals": 27,
+                    "value": "0.050400805455406956344341826",
+                    "formatted": "5.04"
+                },
+                "date": "2025-07-21T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52765631437024167642971642",
+                    "decimals": 27,
+                    "value": "0.052765631437024167642971642",
+                    "formatted": "5.28"
+                },
+                "date": "2025-07-20T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "63810687177110941715370556",
+                    "decimals": 27,
+                    "value": "0.063810687177110941715370556",
+                    "formatted": "6.38"
+                },
+                "date": "2025-07-19T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "66830583023630472678017286",
+                    "decimals": 27,
+                    "value": "0.066830583023630472678017286",
+                    "formatted": "6.68"
+                },
+                "date": "2025-07-18T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "53831751472267961932078176",
+                    "decimals": 27,
+                    "value": "0.053831751472267961932078176",
+                    "formatted": "5.38"
+                },
+                "date": "2025-07-17T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51808653574269928539781721",
+                    "decimals": 27,
+                    "value": "0.051808653574269928539781721",
+                    "formatted": "5.18"
+                },
+                "date": "2025-07-16T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51389555171380132425986727",
+                    "decimals": 27,
+                    "value": "0.051389555171380132425986727",
+                    "formatted": "5.14"
+                },
+                "date": "2025-07-15T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "58113770109211945403315355",
+                    "decimals": 27,
+                    "value": "0.058113770109211945403315355",
+                    "formatted": "5.81"
+                },
+                "date": "2025-07-14T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "54442742010952238500596217",
+                    "decimals": 27,
+                    "value": "0.054442742010952238500596217",
+                    "formatted": "5.44"
+                },
+                "date": "2025-07-13T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "49056180614289302625752380",
+                    "decimals": 27,
+                    "value": "0.04905618061428930262575238",
+                    "formatted": "4.91"
+                },
+                "date": "2025-07-12T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "49723316084488691013464190",
+                    "decimals": 27,
+                    "value": "0.04972331608448869101346419",
+                    "formatted": "4.97"
+                },
+                "date": "2025-07-11T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52072481908465904112782408",
+                    "decimals": 27,
+                    "value": "0.052072481908465904112782408",
+                    "formatted": "5.21"
+                },
+                "date": "2025-07-10T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "49601270093986630350319474",
+                    "decimals": 27,
+                    "value": "0.049601270093986630350319474",
+                    "formatted": "4.96"
+                },
+                "date": "2025-07-09T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47211046484603249519572557",
+                    "decimals": 27,
+                    "value": "0.047211046484603249519572557",
+                    "formatted": "4.72"
+                },
+                "date": "2025-07-08T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "48452404692655502132903058",
+                    "decimals": 27,
+                    "value": "0.048452404692655502132903058",
+                    "formatted": "4.85"
+                },
+                "date": "2025-07-07T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46703753449535936443655627",
+                    "decimals": 27,
+                    "value": "0.046703753449535936443655627",
+                    "formatted": "4.67"
+                },
+                "date": "2025-07-06T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51077970248713731051009884",
+                    "decimals": 27,
+                    "value": "0.051077970248713731051009884",
+                    "formatted": "5.11"
+                },
+                "date": "2025-07-05T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45835904889010129767208017",
+                    "decimals": 27,
+                    "value": "0.045835904889010129767208017",
+                    "formatted": "4.58"
+                },
+                "date": "2025-07-04T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "48077949109647176209443018",
+                    "decimals": 27,
+                    "value": "0.048077949109647176209443018",
+                    "formatted": "4.81"
+                },
+                "date": "2025-07-03T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46744302592436992072593269",
+                    "decimals": 27,
+                    "value": "0.046744302592436992072593269",
+                    "formatted": "4.67"
+                },
+                "date": "2025-07-02T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "39061113614533260443002778",
+                    "decimals": 27,
+                    "value": "0.039061113614533260443002778",
+                    "formatted": "3.91"
+                },
+                "date": "2025-07-01T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45457278183596687018813000",
+                    "decimals": 27,
+                    "value": "0.045457278183596687018813",
+                    "formatted": "4.55"
+                },
+                "date": "2025-06-30T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "41362668229553968394313884",
+                    "decimals": 27,
+                    "value": "0.041362668229553968394313884",
+                    "formatted": "4.14"
+                },
+                "date": "2025-06-29T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51144528282562570020668561",
+                    "decimals": 27,
+                    "value": "0.051144528282562570020668561",
+                    "formatted": "5.11"
+                },
+                "date": "2025-06-28T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45686984138942548375770952",
+                    "decimals": 27,
+                    "value": "0.045686984138942548375770952",
+                    "formatted": "4.57"
+                },
+                "date": "2025-06-27T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52577687968875971781566094",
+                    "decimals": 27,
+                    "value": "0.052577687968875971781566094",
+                    "formatted": "5.26"
+                },
+                "date": "2025-06-26T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47131420710813938253160761",
+                    "decimals": 27,
+                    "value": "0.047131420710813938253160761",
+                    "formatted": "4.71"
+                },
+                "date": "2025-06-25T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64501574171827465622479330",
+                    "decimals": 27,
+                    "value": "0.06450157417182746562247933",
+                    "formatted": "6.45"
+                },
+                "date": "2025-06-24T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51244825309358241913261552",
+                    "decimals": 27,
+                    "value": "0.051244825309358241913261552",
+                    "formatted": "5.12"
+                },
+                "date": "2025-06-23T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "49821439902433651282552476",
+                    "decimals": 27,
+                    "value": "0.049821439902433651282552476",
+                    "formatted": "4.98"
+                },
+                "date": "2025-06-22T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51984833816117932884487217",
+                    "decimals": 27,
+                    "value": "0.051984833816117932884487217",
+                    "formatted": "5.20"
+                },
+                "date": "2025-06-21T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46159132544565574538307526",
+                    "decimals": 27,
+                    "value": "0.046159132544565574538307526",
+                    "formatted": "4.62"
+                },
+                "date": "2025-06-20T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47550220230330373065478990",
+                    "decimals": 27,
+                    "value": "0.04755022023033037306547899",
+                    "formatted": "4.76"
+                },
+                "date": "2025-06-19T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47611737836408715004082331",
+                    "decimals": 27,
+                    "value": "0.047611737836408715004082331",
+                    "formatted": "4.76"
+                },
+                "date": "2025-06-18T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51413287114442814636210437",
+                    "decimals": 27,
+                    "value": "0.051413287114442814636210437",
+                    "formatted": "5.14"
+                },
+                "date": "2025-06-17T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51159317926544095391826825",
+                    "decimals": 27,
+                    "value": "0.051159317926544095391826825",
+                    "formatted": "5.12"
+                },
+                "date": "2025-06-16T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "54737299476338098979350712",
+                    "decimals": 27,
+                    "value": "0.054737299476338098979350712",
+                    "formatted": "5.47"
+                },
+                "date": "2025-06-15T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45950337954448007278129246",
+                    "decimals": 27,
+                    "value": "0.045950337954448007278129246",
+                    "formatted": "4.60"
+                },
+                "date": "2025-06-14T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51621362051557363662547502",
+                    "decimals": 27,
+                    "value": "0.051621362051557363662547502",
+                    "formatted": "5.16"
+                },
+                "date": "2025-06-13T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "53752515210289265917260925",
+                    "decimals": 27,
+                    "value": "0.053752515210289265917260925",
+                    "formatted": "5.38"
+                },
+                "date": "2025-06-12T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "60446361901345796458259442",
+                    "decimals": 27,
+                    "value": "0.060446361901345796458259442",
+                    "formatted": "6.04"
+                },
+                "date": "2025-06-11T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "69680879340065396739099799",
+                    "decimals": 27,
+                    "value": "0.069680879340065396739099799",
+                    "formatted": "6.97"
+                },
+                "date": "2025-06-10T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51330486252228713979348763",
+                    "decimals": 27,
+                    "value": "0.051330486252228713979348763",
+                    "formatted": "5.13"
+                },
+                "date": "2025-06-09T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "56926206497690552930434074",
+                    "decimals": 27,
+                    "value": "0.056926206497690552930434074",
+                    "formatted": "5.69"
+                },
+                "date": "2025-06-08T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "59157414291994655599995902",
+                    "decimals": 27,
+                    "value": "0.059157414291994655599995902",
+                    "formatted": "5.92"
+                },
+                "date": "2025-06-07T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "90615742073432938970886636",
+                    "decimals": 27,
+                    "value": "0.090615742073432938970886636",
+                    "formatted": "9.06"
+                },
+                "date": "2025-06-06T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "54122661772777189233972620",
+                    "decimals": 27,
+                    "value": "0.05412266177277718923397262",
+                    "formatted": "5.41"
+                },
+                "date": "2025-06-05T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "50235989861110822373037403",
+                    "decimals": 27,
+                    "value": "0.050235989861110822373037403",
+                    "formatted": "5.02"
+                },
+                "date": "2025-06-04T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "54699884219345048428325594",
+                    "decimals": 27,
+                    "value": "0.054699884219345048428325594",
+                    "formatted": "5.47"
+                },
+                "date": "2025-06-03T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52446459339168917900498287",
+                    "decimals": 27,
+                    "value": "0.052446459339168917900498287",
+                    "formatted": "5.24"
+                },
+                "date": "2025-06-02T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "48139855610156590695744743",
+                    "decimals": 27,
+                    "value": "0.048139855610156590695744743",
+                    "formatted": "4.81"
+                },
+                "date": "2025-06-01T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "55487738917923606752461227",
+                    "decimals": 27,
+                    "value": "0.055487738917923606752461227",
+                    "formatted": "5.55"
+                },
+                "date": "2025-05-31T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45961239837739435597321962",
+                    "decimals": 27,
+                    "value": "0.045961239837739435597321962",
+                    "formatted": "4.60"
+                },
+                "date": "2025-05-30T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51151987826041227575724823",
+                    "decimals": 27,
+                    "value": "0.051151987826041227575724823",
+                    "formatted": "5.12"
+                },
+                "date": "2025-05-29T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "48079850752573531010924379",
+                    "decimals": 27,
+                    "value": "0.048079850752573531010924379",
+                    "formatted": "4.81"
+                },
+                "date": "2025-05-28T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "48897827342397897014918535",
+                    "decimals": 27,
+                    "value": "0.048897827342397897014918535",
+                    "formatted": "4.89"
+                },
+                "date": "2025-05-27T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51599426121047159646463571",
+                    "decimals": 27,
+                    "value": "0.051599426121047159646463571",
+                    "formatted": "5.16"
+                },
+                "date": "2025-05-26T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "49192799000142481624061227",
+                    "decimals": 27,
+                    "value": "0.049192799000142481624061227",
+                    "formatted": "4.92"
+                },
+                "date": "2025-05-25T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "53844520201646592801118359",
+                    "decimals": 27,
+                    "value": "0.053844520201646592801118359",
+                    "formatted": "5.38"
+                },
+                "date": "2025-05-24T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47344962422940722369969986",
+                    "decimals": 27,
+                    "value": "0.047344962422940722369969986",
+                    "formatted": "4.73"
+                },
+                "date": "2025-05-23T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "50438837404881679378283211",
+                    "decimals": 27,
+                    "value": "0.050438837404881679378283211",
+                    "formatted": "5.04"
+                },
+                "date": "2025-05-22T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52033963932371970397057185",
+                    "decimals": 27,
+                    "value": "0.052033963932371970397057185",
+                    "formatted": "5.20"
+                },
+                "date": "2025-05-21T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "39785287129118865632762526",
+                    "decimals": 27,
+                    "value": "0.039785287129118865632762526",
+                    "formatted": "3.98"
+                },
+                "date": "2025-05-20T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64847724186922000256144080",
+                    "decimals": 27,
+                    "value": "0.06484772418692200025614408",
+                    "formatted": "6.48"
+                },
+                "date": "2025-05-19T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "48776981358888578045870739",
+                    "decimals": 27,
+                    "value": "0.048776981358888578045870739",
+                    "formatted": "4.88"
+                },
+                "date": "2025-05-18T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "57863056164476658759818073",
+                    "decimals": 27,
+                    "value": "0.057863056164476658759818073",
+                    "formatted": "5.79"
+                },
+                "date": "2025-05-17T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "76316968398850913292323047",
+                    "decimals": 27,
+                    "value": "0.076316968398850913292323047",
+                    "formatted": "7.63"
+                },
+                "date": "2025-05-16T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "53130814273912301711248440",
+                    "decimals": 27,
+                    "value": "0.05313081427391230171124844",
+                    "formatted": "5.31"
+                },
+                "date": "2025-05-15T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "55296236919086349470418416",
+                    "decimals": 27,
+                    "value": "0.055296236919086349470418416",
+                    "formatted": "5.53"
+                },
+                "date": "2025-05-14T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46128096720747949739334229",
+                    "decimals": 27,
+                    "value": "0.046128096720747949739334229",
+                    "formatted": "4.61"
+                },
+                "date": "2025-05-13T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "42637881419686515157031868",
+                    "decimals": 27,
+                    "value": "0.042637881419686515157031868",
+                    "formatted": "4.26"
+                },
+                "date": "2025-05-12T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46971627723868512830366124",
+                    "decimals": 27,
+                    "value": "0.046971627723868512830366124",
+                    "formatted": "4.70"
+                },
+                "date": "2025-05-11T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "43858288753818530079696957",
+                    "decimals": 27,
+                    "value": "0.043858288753818530079696957",
+                    "formatted": "4.39"
+                },
+                "date": "2025-05-10T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "50005043747372708079011039",
+                    "decimals": 27,
+                    "value": "0.050005043747372708079011039",
+                    "formatted": "5.00"
+                },
+                "date": "2025-05-09T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40455353535833398799768982",
+                    "decimals": 27,
+                    "value": "0.040455353535833398799768982",
+                    "formatted": "4.05"
+                },
+                "date": "2025-05-08T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "43357074050351529862683395",
+                    "decimals": 27,
+                    "value": "0.043357074050351529862683395",
+                    "formatted": "4.34"
+                },
+                "date": "2025-05-07T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "38031105875113372799197978",
+                    "decimals": 27,
+                    "value": "0.038031105875113372799197978",
+                    "formatted": "3.80"
+                },
+                "date": "2025-05-06T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "43812254875253539372457182",
+                    "decimals": 27,
+                    "value": "0.043812254875253539372457182",
+                    "formatted": "4.38"
+                },
+                "date": "2025-05-05T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46419594399609000605768287",
+                    "decimals": 27,
+                    "value": "0.046419594399609000605768287",
+                    "formatted": "4.64"
+                },
+                "date": "2025-05-04T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40305683956714474360366976",
+                    "decimals": 27,
+                    "value": "0.040305683956714474360366976",
+                    "formatted": "4.03"
+                },
+                "date": "2025-05-03T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "37206485568951503621471579",
+                    "decimals": 27,
+                    "value": "0.037206485568951503621471579",
+                    "formatted": "3.72"
+                },
+                "date": "2025-05-02T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "38255573193374650145531325",
+                    "decimals": 27,
+                    "value": "0.038255573193374650145531325",
+                    "formatted": "3.83"
+                },
+                "date": "2025-05-01T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40593433638462802660494953",
+                    "decimals": 27,
+                    "value": "0.040593433638462802660494953",
+                    "formatted": "4.06"
+                },
+                "date": "2025-04-30T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "37630219548923244352735984",
+                    "decimals": 27,
+                    "value": "0.037630219548923244352735984",
+                    "formatted": "3.76"
+                },
+                "date": "2025-04-29T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "41818581293074688941137614",
+                    "decimals": 27,
+                    "value": "0.041818581293074688941137614",
+                    "formatted": "4.18"
+                },
+                "date": "2025-04-28T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "43508768128025041542497691",
+                    "decimals": 27,
+                    "value": "0.043508768128025041542497691",
+                    "formatted": "4.35"
+                },
+                "date": "2025-04-27T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "41272461343190286133322039",
+                    "decimals": 27,
+                    "value": "0.041272461343190286133322039",
+                    "formatted": "4.13"
+                },
+                "date": "2025-04-26T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "41802115007732548412623516",
+                    "decimals": 27,
+                    "value": "0.041802115007732548412623516",
+                    "formatted": "4.18"
+                },
+                "date": "2025-04-25T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "42087331556561161342503726",
+                    "decimals": 27,
+                    "value": "0.042087331556561161342503726",
+                    "formatted": "4.21"
+                },
+                "date": "2025-04-24T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52278374808492794487585002",
+                    "decimals": 27,
+                    "value": "0.052278374808492794487585002",
+                    "formatted": "5.23"
+                },
+                "date": "2025-04-23T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44474008008624892909328203",
+                    "decimals": 27,
+                    "value": "0.044474008008624892909328203",
+                    "formatted": "4.45"
+                },
+                "date": "2025-04-22T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "39969001358932069083795181",
+                    "decimals": 27,
+                    "value": "0.039969001358932069083795181",
+                    "formatted": "4.00"
+                },
+                "date": "2025-04-21T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40842139387995910526272451",
+                    "decimals": 27,
+                    "value": "0.040842139387995910526272451",
+                    "formatted": "4.08"
+                },
+                "date": "2025-04-20T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "38380274279417721927053395",
+                    "decimals": 27,
+                    "value": "0.038380274279417721927053395",
+                    "formatted": "3.84"
+                },
+                "date": "2025-04-19T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40012955716782972671458902",
+                    "decimals": 27,
+                    "value": "0.040012955716782972671458902",
+                    "formatted": "4.00"
+                },
+                "date": "2025-04-18T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "29167261197706642199985995",
+                    "decimals": 27,
+                    "value": "0.029167261197706642199985995",
+                    "formatted": "2.92"
+                },
+                "date": "2025-04-17T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45526213677429587548597967",
+                    "decimals": 27,
+                    "value": "0.045526213677429587548597967",
+                    "formatted": "4.55"
+                },
+                "date": "2025-04-16T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "35870400794026449903247439",
+                    "decimals": 27,
+                    "value": "0.035870400794026449903247439",
+                    "formatted": "3.59"
+                },
+                "date": "2025-04-15T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "41777998538137437291181457",
+                    "decimals": 27,
+                    "value": "0.041777998538137437291181457",
+                    "formatted": "4.18"
+                },
+                "date": "2025-04-14T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40259376348181038405189013",
+                    "decimals": 27,
+                    "value": "0.040259376348181038405189013",
+                    "formatted": "4.03"
+                },
+                "date": "2025-04-13T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "34497210324364646647220336",
+                    "decimals": 27,
+                    "value": "0.034497210324364646647220336",
+                    "formatted": "3.45"
+                },
+                "date": "2025-04-12T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "39853515507317810858601233",
+                    "decimals": 27,
+                    "value": "0.039853515507317810858601233",
+                    "formatted": "3.99"
+                },
+                "date": "2025-04-11T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "32656202546761786882588895",
+                    "decimals": 27,
+                    "value": "0.032656202546761786882588895",
+                    "formatted": "3.27"
+                },
+                "date": "2025-04-10T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44739550501685898340806948",
+                    "decimals": 27,
+                    "value": "0.044739550501685898340806948",
+                    "formatted": "4.47"
+                },
+                "date": "2025-04-09T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "25854373083888081942936675",
+                    "decimals": 27,
+                    "value": "0.025854373083888081942936675",
+                    "formatted": "2.59"
+                },
+                "date": "2025-04-08T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52612106352527288615733737",
+                    "decimals": 27,
+                    "value": "0.052612106352527288615733737",
+                    "formatted": "5.26"
+                },
+                "date": "2025-04-07T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "46003019278944216025023489",
+                    "decimals": 27,
+                    "value": "0.046003019278944216025023489",
+                    "formatted": "4.60"
+                },
+                "date": "2025-04-06T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44099322721524407436525302",
+                    "decimals": 27,
+                    "value": "0.044099322721524407436525302",
+                    "formatted": "4.41"
+                },
+                "date": "2025-04-05T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "42059813942838947030329158",
+                    "decimals": 27,
+                    "value": "0.042059813942838947030329158",
+                    "formatted": "4.21"
+                },
+                "date": "2025-04-04T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "53104194380536963861737938",
+                    "decimals": 27,
+                    "value": "0.053104194380536963861737938",
+                    "formatted": "5.31"
+                },
+                "date": "2025-04-03T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51383616066178614041649280",
+                    "decimals": 27,
+                    "value": "0.05138361606617861404164928",
+                    "formatted": "5.14"
+                },
+                "date": "2025-04-02T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45970535110057036279385719",
+                    "decimals": 27,
+                    "value": "0.045970535110057036279385719",
+                    "formatted": "4.60"
+                },
+                "date": "2025-04-01T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "43658668380588221864299207",
+                    "decimals": 27,
+                    "value": "0.043658668380588221864299207",
+                    "formatted": "4.37"
+                },
+                "date": "2025-03-31T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44469553279506242103997634",
+                    "decimals": 27,
+                    "value": "0.044469553279506242103997634",
+                    "formatted": "4.45"
+                },
+                "date": "2025-03-30T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45692255556757258549610679",
+                    "decimals": 27,
+                    "value": "0.045692255556757258549610679",
+                    "formatted": "4.57"
+                },
+                "date": "2025-03-29T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "44511433704872169140834120",
+                    "decimals": 27,
+                    "value": "0.04451143370487216914083412",
+                    "formatted": "4.45"
+                },
+                "date": "2025-03-28T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "41036643018932725964037130",
+                    "decimals": 27,
+                    "value": "0.04103664301893272596403713",
+                    "formatted": "4.10"
+                },
+                "date": "2025-03-27T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52725645422766113338227366",
+                    "decimals": 27,
+                    "value": "0.052725645422766113338227366",
+                    "formatted": "5.27"
+                },
+                "date": "2025-03-26T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "42365773700529459496384176",
+                    "decimals": 27,
+                    "value": "0.042365773700529459496384176",
+                    "formatted": "4.24"
+                },
+                "date": "2025-03-25T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "45605694370125157899045537",
+                    "decimals": 27,
+                    "value": "0.045605694370125157899045537",
+                    "formatted": "4.56"
+                },
+                "date": "2025-03-24T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "50249785198857642064903023",
+                    "decimals": 27,
+                    "value": "0.050249785198857642064903023",
+                    "formatted": "5.02"
+                },
+                "date": "2025-03-23T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "53432351273331209813652144",
+                    "decimals": 27,
+                    "value": "0.053432351273331209813652144",
+                    "formatted": "5.34"
+                },
+                "date": "2025-03-22T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "52351165409609798303107406",
+                    "decimals": 27,
+                    "value": "0.052351165409609798303107406",
+                    "formatted": "5.24"
+                },
+                "date": "2025-03-21T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "55853382833951817969794268",
+                    "decimals": 27,
+                    "value": "0.055853382833951817969794268",
+                    "formatted": "5.59"
+                },
+                "date": "2025-03-20T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51627640109271779545544456",
+                    "decimals": 27,
+                    "value": "0.051627640109271779545544456",
+                    "formatted": "5.16"
+                },
+                "date": "2025-03-19T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "50092575722284357781973807",
+                    "decimals": 27,
+                    "value": "0.050092575722284357781973807",
+                    "formatted": "5.01"
+                },
+                "date": "2025-03-18T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "59331738288520741576823902",
+                    "decimals": 27,
+                    "value": "0.059331738288520741576823902",
+                    "formatted": "5.93"
+                },
+                "date": "2025-03-17T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "51679318511535231800132142",
+                    "decimals": 27,
+                    "value": "0.051679318511535231800132142",
+                    "formatted": "5.17"
+                },
+                "date": "2025-03-16T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "53627523016086595309420669",
+                    "decimals": 27,
+                    "value": "0.053627523016086595309420669",
+                    "formatted": "5.36"
+                },
+                "date": "2025-03-15T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "54602777939359707573968970",
+                    "decimals": 27,
+                    "value": "0.05460277793935970757396897",
+                    "formatted": "5.46"
+                },
+                "date": "2025-03-14T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "61734986537077075193973603",
+                    "decimals": 27,
+                    "value": "0.061734986537077075193973603",
+                    "formatted": "6.17"
+                },
+                "date": "2025-03-13T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "41191092852528734364760660",
+                    "decimals": 27,
+                    "value": "0.04119109285252873436476066",
+                    "formatted": "4.12"
+                },
+                "date": "2025-03-12T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "59417481899636643882600608",
+                    "decimals": 27,
+                    "value": "0.059417481899636643882600608",
+                    "formatted": "5.94"
+                },
+                "date": "2025-03-11T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "71971558671489854630802086",
+                    "decimals": 27,
+                    "value": "0.071971558671489854630802086",
+                    "formatted": "7.20"
+                },
+                "date": "2025-03-10T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64131882939990251554482681",
+                    "decimals": 27,
+                    "value": "0.064131882939990251554482681",
+                    "formatted": "6.41"
+                },
+                "date": "2025-03-09T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "64582912818066460079740444",
+                    "decimals": 27,
+                    "value": "0.064582912818066460079740444",
+                    "formatted": "6.46"
+                },
+                "date": "2025-03-08T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "60653310485272693809189461",
+                    "decimals": 27,
+                    "value": "0.060653310485272693809189461",
+                    "formatted": "6.07"
+                },
+                "date": "2025-03-07T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "72958331480182054682601443",
+                    "decimals": 27,
+                    "value": "0.072958331480182054682601443",
+                    "formatted": "7.30"
+                },
+                "date": "2025-03-06T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "47809163341177741987662125",
+                    "decimals": 27,
+                    "value": "0.047809163341177741987662125",
+                    "formatted": "4.78"
+                },
+                "date": "2025-03-05T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "61087247532598756300133335",
+                    "decimals": 27,
+                    "value": "0.061087247532598756300133335",
+                    "formatted": "6.11"
+                },
+                "date": "2025-03-04T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "72317776516840535532767042",
+                    "decimals": 27,
+                    "value": "0.072317776516840535532767042",
+                    "formatted": "7.23"
+                },
+                "date": "2025-03-03T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "72753098690433739051258662",
+                    "decimals": 27,
+                    "value": "0.072753098690433739051258662",
+                    "formatted": "7.28"
+                },
+                "date": "2025-03-02T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "56484364022527036396818916",
+                    "decimals": 27,
+                    "value": "0.056484364022527036396818916",
+                    "formatted": "5.65"
+                },
+                "date": "2025-03-01T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "58918194195951934995251174",
+                    "decimals": 27,
+                    "value": "0.058918194195951934995251174",
+                    "formatted": "5.89"
+                },
+                "date": "2025-02-28T00:00:00+00:00"
+            },
+            {
+                "__typename": "APYSample",
+                "avgRate": {
+                    "__typename": "PercentValue",
+                    "raw": "40626209562035931961068969",
+                    "decimals": 27,
+                    "value": "0.040626209562035931961068969",
+                    "formatted": "4.06"
+                },
+                "date": "2025-02-27T00:00:00+00:00"
+            }
+        ]
+    }
+}

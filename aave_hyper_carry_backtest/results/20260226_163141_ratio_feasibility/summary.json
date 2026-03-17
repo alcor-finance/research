@@ -1,0 +1,21 @@
+{
+  "events": 1095,
+  "event_hours": 8.0,
+  "borrow_apr": 0.0515,
+  "funding_weight": 0.4,
+  "borrow_weight": 0.6000000000000001,
+  "break_even_funding_apr": 0.07725,
+  "avg_funding_apr": 0.04494541,
+  "funding_apr_q50": 0.04661415,
+  "funding_apr_q90": 0.1095,
+  "short_zone_share": 0.8429223744292238,
+  "long_zone_share": 0.15707762557077626,
+  "avg_funding_apr_short_zone": 0.05917871148429036,
+  "avg_funding_apr_long_zone": -0.031434457848837215,
+  "edge_positive_share": 0.27945205479452057,
+  "avg_edge_apr_positive_zone": 0.008979527843137255,
+  "annual_return_always_gross": -0.012921836000000006,
+  "annual_return_oracle_gross": 0.0025093475068493154,
+  "annual_return_75_70_sign_gross": -0.006618435616438358,
+  "annual_return_75_70_struct_gross": -0.0027473444219178193
+}
